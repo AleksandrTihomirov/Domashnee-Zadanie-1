@@ -1,16 +1,16 @@
 public class Cikl {
     public static void main(String[] args) {
 
-    //Цикл:
+        //Цикл:
 
-    int kilometr;
+        int kilometr;
         System.out.println("Cколько километров от Москвы до Сочи?");
-    for (kilometr=0; kilometr<=2000; kilometr=kilometr+1){
-        System.out.println(kilometr);}
-    {   System.out.println("Прилично");
-}
+        for (kilometr = 0; kilometr <= 2000; kilometr = kilometr + 1) {
+        System.out.println(kilometr);
+        }
+        System.out.println("Прилично");
 
-    //*Факториал:
+        //*Факториал:
 
         int f = 1;
         System.out.println("Вычислить факториал числа 10");
